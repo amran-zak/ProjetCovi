@@ -13,6 +13,8 @@ Projet Intégré
 
 
 Introduction
+
+
 Dans le cadre des cours de Gestion de Projet et de Projet Intégré, du Master 1 Informatique, nous étions amenés à créer une interface présentant des données en lien avec le tourisme dans les sites recensés par l’UNESCO.  Nous avons décidé de créer un site web pour présenter l’analyse de nos données collectées. Nous avons donc créé un site appelé Covi-Talie, qui permet de voir l’influence du Covid-19 sur le tourisme italien. 
 Notre site a pour but de présenter des analyses de flux touristique en Italie pendant la période de covid, entre et dans les monuments les plus connus, grâce à des graphiques visuels et interactifs pour les visiteurs du site web.  Nous permettons aussi la visualisation de graphiques qui prédisent le comportement touristique en fonction des événements futurs liés au Covid-19.
 Le contenu du site sera décrit dans une partie dédiée de ce rapport : Résultat. Un lien sera disponible pour visiter le site, visualiser les graphiques et consulter leur analyse. 
